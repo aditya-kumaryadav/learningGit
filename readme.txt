@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Aditya
+Author: Aditya Yadav
 Twitter: @adityaky.official
